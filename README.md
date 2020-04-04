@@ -41,10 +41,16 @@ java -jar accenture-0.0.1-SNAPSHOT.jar
 
 1. Importar el proyecto en eclipse: File > import
 
-![Image](https://github.com/luismontano/PruebaTecnica/blob/master/1.%20Importar.png)
+<p align="center"><img src="https://github.com/luismontano/PruebaTecnica/blob/master/1.%20Importar.png"></p>
 
 2. Seleccione la opción **Existing Maven Projects**
 
 <p align="center"><img src="https://github.com/luismontano/PruebaTecnica/blob/master/2.%20Import%20Maven.png"></p>
 
 3. Seleccione la opción **Finish**
+
+<p align="center"><img src="https://github.com/luismontano/PruebaTecnica/blob/master/3.%20Import%20Maven.png"></p>
+
+4. Actualice las dependencias del proyecto
+
+<p align="center"><img src="https://github.com/luismontano/PruebaTecnica/blob/master/4.%20Actualizar%20dependencias.png"></p>
