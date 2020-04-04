@@ -19,6 +19,17 @@ A continuación, se da respuesta a las preguntas pleanteas
 8. [Contacto](#Contacto)
 
 ## Procedimiento
+A continuación, se describe el procedimiento realizado para la creación de la API
+1. Lectura cuidadosa de las instrucciones
+2. Pruebas manuales de los endpoints suministrados usando postmand
+3. Creación del proyecto usando Spring Boot Initilizer
+4. Adición de dependencias útiles para el desarrollo del proyecto (Gson)
+5. Estructuración del proyecto por medio de cla creación de los paquetes necesarios para dividir el código. En este paso se crearon los siguientes paquetes:
+- controllers: clases e interfaces correspondientes a controladores rest
+- dtos: clases utilizadas para transferir datos
+- models: clases necesarias para modelar la información
+- repository: clases e interfaces utilizadas para acceder a los datos
+- services: clases relacionadas con servicios de negocio
 
 ## Descripción
 Este documento expone la creación y el funcionamiento del **microservicio** escrito en **Java** utilizando el **framework Spring**. Realiza una **integración con el API** descrita a continuación con el objetivo de consumir sus servicios utilizando **peticiones HTTP y los métodos GET, POST, PUT y DELETE**. Las peticiones y respuestas se realizan mediante el **formato Json**. Adicionalmente en los recursos del proyecto se pueden observar las pruebas de integración y de unidad desarrollada.
