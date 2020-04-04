@@ -9,13 +9,16 @@ A continuación se da respuesta a las preguntas pleanteas
 
 # Prueba Técnica
 
-1. [Descripción](#Descripción)
-2. [Integración](#Integración)
-3. [Prerequisitos](#Prerequisitos)
-4. [Instalación](#Instalación)
-5. [Uso](#Uso)
-6. [Postman](#Postman)
-7. [Contacto](#Contacto)
+1. [Procedimiento](#Procedimiento)
+2. [Descripción](#Descripción)
+3. [Integración](#Integración)
+4. [Prerequisitos](#Prerequisitos)
+5. [Instalación](#Instalación)
+6. [Uso](#Uso)
+7. [Postman](#Postman)
+8. [Contacto](#Contacto)
+
+## Procedimiento
 
 ## Descripción
 Este documento expone la creación y el funcionamiento del **microservicio** escrito en **Java** utilizando el **framework Spring**. Realiza una **integración con el API** descrita a continuación con el objetivo de consumir sus servicios utilizando **peticiones HTTP y los métodos GET, POST, PUT y DELETE**. Las peticiones y respuestas se realizan mediante el **formato Json**. Adicionalmente en los recursos del proyecto se pueden observar las pruebas de integración y de unidad desarrollada.
