@@ -4,11 +4,14 @@ Este documento expone la creación y el funcionamiento del **microservicio** esc
 
 ## Integración
 
-**NOTE**
-
-It works with almost all markdown flavours (the below blank line matters).
-
+**EndPoint 1**
 ```
-Give examples
+https://testbankapi.firebaseio.com/products.json
 ```
-> **_NOTE:_**  The note content.
+> **_Nota:_** Permite los métodos GET Y POST
+
+**EndPoint 2**
+```
+https://testbankapi.firebaseio.com/products/id.json
+```
+> **_Nota:_** Permite los métodos PUT Y DELETE
