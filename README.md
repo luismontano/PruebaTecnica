@@ -8,6 +8,7 @@ Los servicios web son servicios que son ofrecidos en la web por medio de peticio
 REST es un estilo arquitectural que define una serie de principios la creación de servicios web y para para establecer una comunicación entre el cliente y el servidor. En esta se describe que el protocolo de comunicación utilizado es HTTP y a demás se deben utilizar diferentes métodos como GET, POST, PUT, PATCH y DELETE. Los servicios Restful son aquellos que implementan todos los principios de la arquitectura REST.
 
 ### Que significa la inyección de dependencias y cuando se aplica
+La inyección de dependecias es un patron de diseño utilizado en la programación orientada a objetos, en el cual el objeto no realiza la creación de sus dependencias sino que estas le son suministradas. Hay una clase que le pasa o inyecta las dependencias. Se puede utilizar cuando se desea modularidad, reutilziación, bajo acoplamiento y evitar crear muchos objetos de una clase, debido a que en la inyección de dependencias las dependencias funcionana como un singleton. Adicionalmente, son utiles al realizar pruebas de unidad debido a que las dependencias se pueden mockear.
 
 # Prueba Técnica
 
