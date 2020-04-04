@@ -5,6 +5,7 @@ A continuación, se da respuesta a las preguntas pleanteas
 Los servicios web son servicios que son ofrecidos en la web por medio de peticiones HTTP. Por otro lado, los microservicios son una arquitectura para desarrollar software basada en modelar la aplicación en partes, en servicios independientes; esto último, garantiza un bajo acoplamiento. Los microservicios pueden estar escritos en diferentes lenguajes de programación y suelen ser implementados como servicios web.
 
 ### Diferencias entre Rest y Restful
+Rest es un estilo arquitectural que define una serie de principios para establecer una comunicación entre el cliente y el servidor. En esta se describe que el protocolo de comunicación utilizado es HTTP y a demás se deben utilizar diferentes métodos como GET, POST, PUT, PATCH y DELETE. Los servicios Restful son aquellos que implementan todos los principios de la arquitectura Rest.
 
 ### Que significa la inyección de dependencias y cuando se aplica
 
