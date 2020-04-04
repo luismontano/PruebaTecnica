@@ -1,5 +1,5 @@
 # Preguntas Teóricas
-A continuación se da respuesta a las preguntas pleanteas
+A continuación, se da respuesta a las preguntas pleanteas
 
 ### Identifique las diferencias (si las hay) entre un microservicio y un servicio web
 
