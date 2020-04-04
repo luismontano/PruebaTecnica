@@ -112,7 +112,7 @@ java -jar accenture-0.0.1-SNAPSHOT.jar
 
 ## Uso
 
-La aplicación se ejecutará en un servidor local que recibe peticientes usando el puerto 8080. Las peticiones y respuestas se realizan mediante el **formato Json**
+La aplicación se ejecutará en un servidor Tomcat local que recibe peticiones usando el puerto 8080. Las peticiones y respuestas se realizan mediante el **formato Json**
 
 **EndPoint 1**
 ```
