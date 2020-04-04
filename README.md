@@ -89,3 +89,9 @@ http://localhost:8080/products.json
 http://localhost:8080/products/{id}.json
 ```
 > **_Nota:_** Permite los métodos PUT Y DELETE
+
+**EndPoint 3**
+```
+http://localhost:8080/products/totalvalues.json
+```
+> **_Nota:_** Permite el método GET
