@@ -25,9 +25,7 @@ https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
 
 ## Instalación
 
-Se proponen dos mecánismos para realizar la ejecución del proyecto
-
-Inicialmente se debe realizar la clonación del repositorio
+Se proponen dos mecánismos para realizar la ejecución del proyecto. Inicialmente se debe realizar la clonación del repositorio
 ```
 https://github.com/luismontano/PruebaTecnica.git
 ```
@@ -40,5 +38,7 @@ java -jar accenture-0.0.1-SNAPSHOT.jar
 ```
 
 ### Ejecución usando eclipse
+
+1. Importar el proyecto en eclipse: File > import
 
 ![Image](https://github.com/luismontano/PruebaTecnica/blob/master/Importar.png)
