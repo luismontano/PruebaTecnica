@@ -4,7 +4,7 @@
 2. [Integración](#Integración)
 3. [Prerequisitos](#Prerequisitos)
 4. [Instalación](#Instalación)
-5. [Uso](#Uso)
+5. [Uso de la API](#Uso de la API)
 
 ## Descripción
 Este documento expone la creación y el funcionamiento del **microservicio** escrito en **Java** utilizando el **framework Spring**. Realiza una **integración con el API** descrita a continuación con el objetivo de consumir sus servicios utilizando **peticiones HTTP y los métodos GET, POST, PUT y DELETE**. Las peticiones y respuestas se realizan mediante el **formato Json**. Adicionalmente en los recursos del proyecto se pueden observar las pruebas de integración y de unidad desarrollada.
@@ -74,7 +74,7 @@ java -jar accenture-0.0.1-SNAPSHOT.jar
 
 <p align="center"><img src="https://github.com/luismontano/PruebaTecnica/blob/master/7.%20Log.png"></p>
 
-## Uso
+## Uso de la API
 
 La aplicación se ejecutará en un servidor local que recibe peticientes usando el puerto 8080. Las peticiones y respuestas se realizan mediante el **formato Json**
 
