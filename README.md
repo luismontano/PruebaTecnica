@@ -1,9 +1,9 @@
 # Prueba Técnica
 
-1. [Descripción](##Descripción)
-2. [Integración](##Integración)
-3. [Prerequisitos](##Prerequisitos)
-4. [Instalación](##Instalación)
+1. [Descripción](#Descripción)
+2. [Integración](#Integración)
+3. [Prerequisitos](#Prerequisitos)
+4. [Instalación](#Instalación)
 5. [Uso](##Uso)
 
 ## Descripción
