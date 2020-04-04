@@ -1,9 +1,9 @@
 # Prueba Técnica
 
 1. [Descripción](##Descripción)
-2. [Integración](#Integración)
-3. [Prerequisitos](#Prerequisitos)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+2. [Integración](##Integración)
+3. [Prerequisitos](##Prerequisitos)
+4. [Instalación](##Instalación)
 
 ## Descripción
 Este documento expone la creación y el funcionamiento del **microservicio** escrito en **Java** utilizando el **framework Spring**. Realiza una **integración con el API** descrita a continuación con el objetivo de consumir sus servicios utilizando **peticiones HTTP y los métodos GET, POST, PUT y DELETE**. Las peticiones y respuestas se realizan mediante el **formato Json**. Adicionalmente en los recursos del proyecto se adjuntan las pruebas de integración y de unidad desarrollada.
