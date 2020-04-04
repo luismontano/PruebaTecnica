@@ -30,7 +30,7 @@ Se proponen dos mecánismos para realizar la ejecución del proyecto. Inicialmen
 https://github.com/luismontano/PruebaTecnica.git
 ```
 
-### Ejecución del jar
+### Ejecución usando la línea de compados y el jar
 
 1. Ejecutar la aplicación usando la línea de comandos
 ```
@@ -51,6 +51,18 @@ java -jar accenture-0.0.1-SNAPSHOT.jar
 
 <p align="center"><img src="https://github.com/luismontano/PruebaTecnica/blob/master/3.%20Import%20Maven.png"></p>
 
-4. Actualice las dependencias del proyecto
+4. Actualice las dependencias del proyecto: Clic derecho > Maven > Update proyect
 
 <p align="center"><img src="https://github.com/luismontano/PruebaTecnica/blob/master/4.%20Actualizar%20dependencias.png"></p>
+
+5. Seleccione la opción **Force update of Snapshots** y de clic en Ok
+
+<p align="center"><img src="https://github.com/luismontano/PruebaTecnica/blob/master/5.%20Actualizar%20dependencias.png"></p>
+
+6. Ejecute la aplicación como una aplicación java, para esto ubique el archivo **AccentureApplication.java**: clic derecho > Run As > Java Application
+
+<p align="center"><img src="https://github.com/luismontano/PruebaTecnica/blob/master/6.%20Ejecutar%20la%20aplicaci%C3%B3n.png"></p>
+
+7. Si los pasos se han realizado correctamente se debería observar el siguiente mensaje en el log
+
+<p align="center"><img src="https://github.com/luismontano/PruebaTecnica/blob/master/7.%20Log.png"></p>
