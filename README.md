@@ -41,4 +41,4 @@ java -jar accenture-0.0.1-SNAPSHOT.jar
 
 ### Ejecución usando eclipse
 
-![Image description](https://github.com/luismontano/PruebaTecnica/blob/master/Importar.png)
+![Image](https://github.com/luismontano/PruebaTecnica/blob/master/Importar.png)
