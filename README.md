@@ -4,10 +4,11 @@ Este documento expone la creación y el funcionamiento del **microservicio** esc
 
 ## API de Integración
 
----
 **NOTE**
----
 
 It works with almost all markdown flavours (the below blank line matters).
 
----
+```
+Give examples
+```
+> **_NOTE:_**  The note content.
