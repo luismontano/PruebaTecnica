@@ -24,3 +24,8 @@ https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
 ```
 
 ## Instalación
+
+1. Clonar el repositorio
+```
+https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
+```
