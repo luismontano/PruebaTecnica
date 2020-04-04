@@ -95,3 +95,7 @@ http://localhost:8080/products/{id}.json
 http://localhost:8080/totalvalues.json
 ```
 > **_Nota:_** Permite el método GET
+
+## Contacto
+Luis Carlos Montaño Castañeda 
+luismontano@outlook.com
