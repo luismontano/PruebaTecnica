@@ -2,6 +2,7 @@
 A continuación, se da respuesta a las preguntas pleanteas
 
 ### Identifique las diferencias (si las hay) entre un microservicio y un servicio web
+Los servicios web son servicios que son ofrecidos en la web por medio de peticiones HTTP. Por otro lado, los microservicios son una arquitectura para desarrollar software basada en modelar la aplicación en partes, en servicios independientes; esto último, garantiza un bajo acoplamiento. Los microservicios pueden estar escritos en diferentes lenguajes de programación y suelen ser implementados como servicios web.
 
 ### Diferencias entre Rest y Restful
 
