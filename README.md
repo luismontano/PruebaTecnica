@@ -15,6 +15,7 @@ La inyección de dependecias es un patron de diseño utilizado en la programaci�
 1. [Procedimiento](#Procedimiento)
 2. [Descripción](#Descripción)
 3. [Integración](#Integración)
+4. [Tecnologías](#Tecnologías)
 4. [Prerequisitos](#Prerequisitos)
 5. [Instalación](#Instalación)
 6. [Uso](#Uso)
@@ -53,6 +54,10 @@ https://testbankapi.firebaseio.com/products.json
 https://testbankapi.firebaseio.com/products/{id}.json
 ```
 > **_Nota:_** Permite los métodos PUT Y DELETE
+
+## Tecnologías
+
+Spring Boot, JUnit, Java, Gson, Java Lambda
 
 ## Prerequisitos
 
