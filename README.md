@@ -1,9 +1,8 @@
 # Prueba Técnica
 
-# Table of Contents
 1. [Descripción](##Descripción)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
+2. [Integración](#Integración)
+3. [Prerequisitos](#Prerequisitos)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
 ## Descripción
