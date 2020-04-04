@@ -19,17 +19,25 @@ A continuación, se da respuesta a las preguntas pleanteas
 8. [Contacto](#Contacto)
 
 ## Procedimiento
-A continuación, se describe el procedimiento realizado para la creación de la API
+A continuación, se describe de manera detallada el procedimiento realizado para la creación de la API
 1. Lectura cuidadosa de las instrucciones
-2. Pruebas manuales de los endpoints suministrados usando postmand
+2. Pruebas manuales de los endpoints suministrados usando Postman
 3. Creación del proyecto usando Spring Boot Initilizer
 4. Adición de dependencias útiles para el desarrollo del proyecto (Gson)
 5. Estructuración del proyecto por medio de cla creación de los paquetes necesarios para dividir el código. En este paso se crearon los siguientes paquetes:
-- controllers: clases e interfaces correspondientes a controladores rest
-- dtos: clases utilizadas para transferir datos
-- models: clases necesarias para modelar la información
-- repository: clases e interfaces utilizadas para acceder a los datos
-- services: clases relacionadas con servicios de negocio
+5.1. controllers: clases e interfaces correspondientes a controladores rest
+5.2. dtos: clases utilizadas para transferir datos
+5.3. models: clases necesarias para modelar la información
+5.4. repository: clases e interfaces utilizadas para acceder a los datos
+5.5. services: clases relacionadas con servicios de negocio
+6. Creación de las interfaces utilizadas por los controladores, los servicios de negocio y los servicios de acceso a datos
+7. Implementación de la capa de acceso a datos
+8. Creación de pruebas automáticas para la capa de acceso a datos usando JUnit
+9. Implementación de la capa de negocio e integración con la capa de acceso a datos
+10. Creación de pruebas para la capa de negocio usando JUnit y la integración con la capa de acceso a datos
+11. Implementación de los controladores Rest e integración con los servicios de negocio
+12. Creación de pruebas para los controladores y la integración con los servicios de negocio
+13. Adicionalmente, se realizan pruebas manuales usando Postman
 
 ## Descripción
 Este documento expone la creación y el funcionamiento del **microservicio** escrito en **Java** utilizando el **framework Spring**. Realiza una **integración con el API** descrita a continuación con el objetivo de consumir sus servicios utilizando **peticiones HTTP y los métodos GET, POST, PUT y DELETE**. Las peticiones y respuestas se realizan mediante el **formato Json**. Adicionalmente en los recursos del proyecto se pueden observar las pruebas de integración y de unidad desarrollada.
