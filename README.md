@@ -4,9 +4,10 @@
 2. [Integración](##Integración)
 3. [Prerequisitos](##Prerequisitos)
 4. [Instalación](##Instalación)
+5. [Uso](##Uso)
 
 ## Descripción
-Este documento expone la creación y el funcionamiento del **microservicio** escrito en **Java** utilizando el **framework Spring**. Realiza una **integración con el API** descrita a continuación con el objetivo de consumir sus servicios utilizando **peticiones HTTP y los métodos GET, POST, PUT y DELETE**. Las peticiones y respuestas se realizan mediante el **formato Json**. Adicionalmente en los recursos del proyecto se adjuntan las pruebas de integración y de unidad desarrollada.
+Este documento expone la creación y el funcionamiento del **microservicio** escrito en **Java** utilizando el **framework Spring**. Realiza una **integración con el API** descrita a continuación con el objetivo de consumir sus servicios utilizando **peticiones HTTP y los métodos GET, POST, PUT y DELETE**. Las peticiones y respuestas se realizan mediante el **formato Json**. Adicionalmente en los recursos del proyecto se pueden observar las pruebas de integración y de unidad desarrollada.
 
 ## Integración
 
@@ -18,7 +19,7 @@ https://testbankapi.firebaseio.com/products.json
 
 **EndPoint 2**
 ```
-https://testbankapi.firebaseio.com/products/id.json
+https://testbankapi.firebaseio.com/products/{id}.json
 ```
 > **_Nota:_** Permite los métodos PUT Y DELETE
 
@@ -72,3 +73,19 @@ java -jar accenture-0.0.1-SNAPSHOT.jar
 7. Si los pasos se han realizado correctamente se debería observar el siguiente mensaje en el log
 
 <p align="center"><img src="https://github.com/luismontano/PruebaTecnica/blob/master/7.%20Log.png"></p>
+
+## Uso
+
+La aplicación se ejecutará en un servidor local que recibe peticientes usando el puerto 8080. Las peticiones y respuestas se realizan mediante el **formato Json**
+
+**EndPoint 1**
+```
+http://localhost:8080/products.json
+```
+> **_Nota:_** Permite los métodos GET Y POST
+
+**EndPoint 2**
+```
+http://localhost:8080/products/{id}.json
+```
+> **_Nota:_** Permite los métodos PUT Y DELETE
