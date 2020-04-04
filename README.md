@@ -5,7 +5,7 @@
 3. [Prerequisitos](#Prerequisitos)
 4. [Instalación](#Instalación)
 5. [Uso](#Uso)
-3. [Contacto](#Contacto)
+6. [Contacto](#Contacto)
 
 ## Descripción
 Este documento expone la creación y el funcionamiento del **microservicio** escrito en **Java** utilizando el **framework Spring**. Realiza una **integración con el API** descrita a continuación con el objetivo de consumir sus servicios utilizando **peticiones HTTP y los métodos GET, POST, PUT y DELETE**. Las peticiones y respuestas se realizan mediante el **formato Json**. Adicionalmente en los recursos del proyecto se pueden observar las pruebas de integración y de unidad desarrollada.
@@ -96,6 +96,14 @@ http://localhost:8080/products/{id}.json
 http://localhost:8080/totalvalues.json
 ```
 > **_Nota:_** Permite el método GET
+
+## Postman
+
+Para probar la API desarrollada puede hacer uso de postman, importando la siguiente configuración
+```
+https://github.com/luismontano/PruebaTecnica/blob/master/Accenture.postman_collection.json
+```
+> **_Nota:_** Recuerde modificar los ids cuando se requiera
 
 ## Contacto
 Luis Carlos Montaño Castañeda 
