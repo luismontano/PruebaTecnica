@@ -24,12 +24,7 @@ A continuación, se describe de manera detallada el procedimiento realizado para
 2. Pruebas manuales de los endpoints suministrados usando Postman
 3. Creación del proyecto usando Spring Boot Initilizer
 4. Adición de dependencias útiles para el desarrollo del proyecto (Gson)
-5. Estructuración del proyecto por medio de cla creación de los paquetes necesarios para dividir el código. En este paso se crearon los siguientes paquetes:
-5.1. controllers: clases e interfaces correspondientes a controladores rest
-5.2. dtos: clases utilizadas para transferir datos
-5.3. models: clases necesarias para modelar la información
-5.4. repository: clases e interfaces utilizadas para acceder a los datos
-5.5. services: clases relacionadas con servicios de negocio
+5. Estructuración del proyecto por medio de cla creación de los paquetes necesarios para dividir el código. En este paso se crearon los siguientes paquetes: **controllers:** clases e interfaces correspondientes a controladores rest. **dtos:** clases utilizadas para transferir datos. **models:** clases necesarias para modelar la información. **repository:** clases e interfaces utilizadas para acceder a los datos. **services:** clases relacionadas con servicios de negocio
 6. Creación de las interfaces utilizadas por los controladores, los servicios de negocio y los servicios de acceso a datos
 7. Implementación de la capa de acceso a datos
 8. Creación de pruebas automáticas para la capa de acceso a datos usando JUnit
