@@ -1,3 +1,12 @@
+# Preguntas Teóricas
+A continuación se da respuesta a las preguntas pleanteas
+
+### Identifique las diferencias (si las hay) entre un microservicio y un servicio web
+
+### Diferencias entre Rest y Restful
+
+### Que significa la inyección de dependencias y cuando se aplica
+
 # Prueba Técnica
 
 1. [Descripción](#Descripción)
