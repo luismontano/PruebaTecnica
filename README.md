@@ -45,6 +45,6 @@ java -jar accenture-0.0.1-SNAPSHOT.jar
 
 2. Seleccione la opción **Existing Maven Projects**
 
-![Image](https://github.com/luismontano/PruebaTecnica/blob/master/2.%20Import%20Maven.png)
+<p align="center"><img src="https://github.com/luismontano/PruebaTecnica/blob/master/2.%20Import%20Maven.png"></p>
 
 3. Seleccione la opción **Finish**
