@@ -15,3 +15,12 @@ https://testbankapi.firebaseio.com/products.json
 https://testbankapi.firebaseio.com/products/id.json
 ```
 > **_Nota:_** Permite los métodos PUT Y DELETE
+
+## Prerequisitos
+
+Para hacer uso del servicio se debe tener instalado el **JDK de java**. Se recomienda la versión jdk1.8.0_171 o posterior
+```
+https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
+```
+
+## Instalación
